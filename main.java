@@ -481,6 +481,8 @@ public class main {
         
         //ArrowsWithStrawBoats s = new ArrowsWithStrawBoats();
         arrows_with_straw_boats s = new arrows_with_straw_boats();
+        
+        EncryptedTextConverter.main(args);
 
     }
     }
